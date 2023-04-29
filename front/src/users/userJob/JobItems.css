@@ -1,0 +1,19 @@
+.card8{
+    margin: 0%;
+    box-shadow: 10px 20px 80px rgba(13, 160, 234, 0.26);
+    border-radius: 6px;
+    padding: 1rem;
+    overflow: hidden;
+    background:  #006bbd;
+    margin-top: 13%;
+
+}
+
+.center_1{
+    margin-left: 30%;
+}
+
+.file{
+    margin-left: 10%;
+
+}

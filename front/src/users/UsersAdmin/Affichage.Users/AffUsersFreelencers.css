@@ -1,0 +1,107 @@
+.table-free{
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: "Open Sans", sans-serif;
+    color: #555;
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  }
+  
+  .col123 .col1 {
+    background-color: #f5f5f5;
+    color: #555;
+    font-weight: 600;
+    text-align: left;
+    text-transform: uppercase;
+    padding: 12px 20px;
+    border-top: none;
+    border-bottom: 2px solid #d7dde4;
+  }
+  
+  .col123  .col1:first-child {
+    border-top-left-radius: 5px;
+  }
+  
+  .col123 .col1:last-child {
+    border-top-right-radius: 5px;
+  }
+  
+  .lig123 .lig1 {
+    text-align: left;
+    padding: 12px 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .lig123 .lig12:last-child td {
+    border-bottom: none;
+  }
+  
+  .lig123 .lig12:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  .lig12{
+    cursor: pointer;
+  }
+  
+  .lig123 .lig12:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .lig123 .lig1:first-child {
+    font-weight: 600;
+    color: #333;
+  }
+  
+  .lig123 .lig1 a {
+    color: #2196f3;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .lig123 .lig1 a:hover {
+    color: #1769aa;
+  }
+  
+ /* tfoot td {
+    text-align: left;
+    padding: 8px 20px;
+    background-color: #f5f5f5;
+    border-top: 2px solid #ddd;
+    color: #555;
+  }
+  
+  tfoot td:first-child {
+    border-bottom-left-radius: 5px;
+  }
+  
+  tfoot td:last-child {
+    border-bottom-right-radius: 5px;
+  } */
+
+  .delete-button {
+    display: inline-block;
+    background-color: #ff3b30;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .delete-button:hover {
+    background-color: #c70d00;
+  }
+  
+  
+
+
+

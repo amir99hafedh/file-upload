@@ -1,0 +1,80 @@
+.place-form {
+  margin: 0 auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 50rem;
+  box-shadow: 0 2px 8px rgba(36, 11, 225, 0.852);
+  border-radius: 6px;
+  background: white;
+  margin-top: 20vh;
+}
+.form-control {
+  margin: 1rem 0;
+}
+
+.form-control label,
+.form-control input,
+.form-control textarea {
+  display: block;
+}
+
+.form-control label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.form-control input,
+.form-control textarea {
+  width: 100%;
+  font: inherit;
+  border: 1.5px solid #ccc;
+  background: #f8f8f8;
+  padding: 0.15rem 0.25rem;
+  border-radius: 10px;
+}
+.form-control input {
+  height: 30px;
+}
+
+.form-control input:focus,
+.form-control textarea:focus {
+  outline: none;
+  background: #ebebeb;
+  border-color: #510077;
+}
+
+/*.form-control{
+    margin: 1rem 0;
+}
+.place-form label,
+.place-form input{
+    display: block;
+
+}
+
+.place-form label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+
+  .place-form input{
+
+    width: 100%;
+    font: inherit;
+    border: 1.5px solid #ccc;
+    background: #f8f8f8;
+    padding: 0.15rem 0.25rem;
+    border-radius: 10px;
+    
+  }
+
+  .place-form input{
+    height: 30px;
+  
+  }
+
+  .place-form input:focus{
+    outline: none;
+    background: #ebebeb;
+    border-color: #510077;
+  }*/

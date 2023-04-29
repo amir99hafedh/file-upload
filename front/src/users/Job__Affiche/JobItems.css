@@ -1,0 +1,18 @@
+.card8{
+      margin: 0%;
+      box-shadow: 10px 20px 80px rgba(13, 160, 234, 0.26);
+      border-radius: 6px;
+      padding: 1rem;
+      overflow: hidden;
+      background:  #006bbd;
+      margin-top: 13%;
+ 
+}
+.succes{
+      width: 20%;
+      height: 50%;
+      margin-left: 40%;
+      background:  #3e8afc;
+      margin-top: 10.25%;
+
+}

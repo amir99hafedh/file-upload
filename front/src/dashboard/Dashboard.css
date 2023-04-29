@@ -1,0 +1,57 @@
+.widget{
+    display: flex;
+    padding: 50px;
+    margin-left: 40px;
+    gap: 50px;
+   
+    height: 40px;
+    flex: 1;
+    justify-content: space-between;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+     rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+.widget:hover{
+    background-color: rgb(243, 242, 242);
+}
+
+.stat{
+    display: flex;
+    width: 40%;
+    margin-left: 15%;
+    margin-top: 2%;
+}
+
+.right , .left {
+    display: flex;
+    flex-direction: column;
+    gap: 18%;
+    margin-right: 10%;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 14px;
+    color: rgb(160, 160, 160);
+    margin: -12%;
+    
+}
+
+.nombre{
+    font-size: 28px;
+    font-weight: 300;
+}
+
+.voirTous{
+    font-size: 12px;
+    border-bottom: 1px solid gray;
+    /*width: max-content;*/
+}
+
+.pourcentage{
+    
+    margin-top: 20%;
+    font-size: 32px;
+    color: green;
+   
+    
+}

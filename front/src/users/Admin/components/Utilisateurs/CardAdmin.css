@@ -1,0 +1,11 @@
+.card-admin{
+    height: 273px;
+    width: 305px;
+    padding: 20px 25px;
+    background:  #006bbd;
+    border-radius: 20px;
+    margin: 55px;
+    position: relative;
+    display: grid;
+    margin-top: 32%;
+}

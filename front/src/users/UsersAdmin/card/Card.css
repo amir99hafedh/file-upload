@@ -1,0 +1,12 @@
+/*.card10 {
+  position: absolute;
+    margin: 0%;
+    box-shadow: 10px 20px 80px rgba(13, 160, 234, 0.26);
+    border-radius: 6px;
+    padding: 1rem;
+    overflow: hidden;
+    background: rgb(54, 175, 245);
+    margin-top: 5%;
+    
+  }
+  

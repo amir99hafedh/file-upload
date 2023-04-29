@@ -1,0 +1,12 @@
+.card-salarie{
+    height: 273px;
+    width: 305px;
+    padding: 20px 25px;
+    background-color: rgb(115, 127, 203, 0.982);
+    border-radius: 20px;
+    margin: 55px;
+    position: relative;
+    display: grid;
+    margin-top: 32%;
+}
+
